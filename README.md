@@ -8,7 +8,6 @@
         <h1>Contact Information</h1>
         <h2>Resume</h2>
         <div class="contact-info">
-            <img src="blue.html" alt="heel boots" style="width:30%">
             <p><strong>Name:</strong> Thrikuda Devi DKL</p>
             <p><strong>Contact:</strong> 9976543215</p>
             <p><strong>Email:</strong> thrikuda@example.com</p>
