@@ -1,4 +1,3 @@
-# career-information-resume
 <!DOCTYPE html>
 <html lang="en">
 <head>
